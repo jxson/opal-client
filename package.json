@@ -1,0 +1,21 @@
+{
+  "name": "opal",
+  "version": "0.0.0",
+  "description": "JS/Node.js client for opal.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jxson/opal-client.git"
+  },
+  "keywords": [
+    "opal"
+  ],
+  "author": "Jason Campbell <jason@js.la> (http://artifact.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxson/opal-client/issues"
+  }
+}
